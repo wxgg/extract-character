@@ -1,0 +1,23 @@
+{
+  "小明": {
+    "id": "js.lang.massage.1",
+    "defaultMessage": "小明",
+    "items": [
+      { "filePath": "D:/develop/EasyWebSvr_jb51/dist/test/index.js", "line": 2 }
+    ]
+  },
+  "学生": {
+    "id": "js.lang.massage.2",
+    "defaultMessage": "学生",
+    "items": [
+      { "filePath": "D:/develop/EasyWebSvr_jb51/dist/test/index.js", "line": 3 }
+    ]
+  },
+  "{0}是{1}": {
+    "id": "js.lang.massage.3",
+    "defaultMessage": "{0}是{1}",
+    "items": [
+      { "filePath": "D:/develop/EasyWebSvr_jb51/dist/test/index.js", "line": 4 }
+    ]
+  }
+}
